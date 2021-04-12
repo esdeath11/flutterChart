@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+# For App path : build\app\outputs\flutter-apk\app-release.apk
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
