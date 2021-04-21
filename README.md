@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-### For App path : build\app\outputs\flutter-apk\app-release.apk
+
 
 ## Getting Started
 
